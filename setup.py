@@ -22,11 +22,11 @@ setup(
     include_package_data=True,
     url="https://github.com/clinicedc/edc-glucose",
     license="GPL license, see LICENSE",
-    description="Classes to collect glucose, IFG, OGTT",
+    description="Classes to collect glucose, FBG, OGTT",
     long_description_content_type="text/x-rst",
     long_description=README,
     zip_safe=False,
-    keywords="django edc glucose ifg ogtt",
+    keywords="django edc glucose FBG / OGTT",
     install_requires=[],
     classifiers=[
         "Environment :: Web Environment",
