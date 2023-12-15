@@ -9,8 +9,8 @@ Classes to manage glucose, ifg and ogtt
 .. |pypi| image:: https://img.shields.io/pypi/v/edc-glucose.svg
     :target: https://pypi.python.org/pypi/edc-glucose
 
-.. |actions| image:: https://github.com/clinicedc/edc-glucose/workflows/build/badge.svg?branch=develop
-  :target: https://github.com/clinicedc/edc-glucose/actions?query=workflow:build
+.. |actions| image:: https://github.com/clinicedc/edc-glucose/actions/workflows/build.yml/badge.svg
+  :target: https://github.com/clinicedc/edc-glucose/actions/workflows/build.yml
 
 .. |codecov| image:: https://codecov.io/gh/clinicedc/edc-glucose/branch/develop/graph/badge.svg
   :target: https://codecov.io/gh/clinicedc/edc-glucose
