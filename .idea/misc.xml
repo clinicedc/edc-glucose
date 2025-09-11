@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="pathToExecutable" value="/usr/local/bin/black" />
+    <option name="sdkName" value="uv (edc-glucose) (3)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (edc-glucose) (4)" project-jdk-type="Python SDK" />
+</project>
